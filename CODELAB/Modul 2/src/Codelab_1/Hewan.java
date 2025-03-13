@@ -1,3 +1,5 @@
+package src.Codelab_1
+
 public class Hewan {
     String nama;
     String jenis;

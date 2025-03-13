@@ -5,10 +5,10 @@ public class Main {
         RekeningBank rekening1 = new RekeningBank();
         RekeningBank rekening2 = new RekeningBank();
 
-        rekening1.nomorRekening = "202410370110505";
+        rekening1.nomorRekening = "202410370110527";
         rekening2.nomorRekening = "202410370110523";
 
-        rekening1.namaPemilik = "Gyfandi";
+        rekening1.namaPemilik = "Rohid";
         rekening2.namaPemilik = "Maman";
 
         rekening1.saldo = 300000.0;

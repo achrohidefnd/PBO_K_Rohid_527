@@ -1,5 +1,7 @@
-public class Main{
-    public static void main(String[]args){
+package src.Codelab_1;
+
+public class Main {
+    public static void main(String[] args){
         Hewan hewan1 = new Hewan();
         Hewan hewan2 = new Hewan();
 
