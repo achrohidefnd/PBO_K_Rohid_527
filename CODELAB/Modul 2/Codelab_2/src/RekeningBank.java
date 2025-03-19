@@ -1,5 +1,3 @@
-package src.Codelab_2;
-
 public class RekeningBank {
     String nomorRekening;
     String namaPemilik;
